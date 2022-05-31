@@ -1,0 +1,61 @@
+{
+"version":"1.2",
+"knserver":[
+   {
+"name":" Korea",
+   "flag":"kr",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
+"name":" Myanmar",
+   "flag":"mm",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Singapore",
+   "flag":"sg",
+   "serverhost":"139.59.245.69",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
+   "name":"United States",
+   "flag":"us",
+   "serverhost":"139.59.245.69",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Japan",
+   "flag":"jp",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" Malay....",
+   "flag":"my",
+   "serverhost":"165.22.255.179",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+},
+{
+   "name":" H K ",
+   "flag":"hk",
+   "serverhost":"139.59.245.69",
+   "sshport":"550",
+   "username":"fuckyousniffer",
+   "password":"fuckyousniffer"
+}
+]
+}
