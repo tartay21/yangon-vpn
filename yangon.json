@@ -4,50 +4,50 @@
    {
 "name":" Korea",
    "flag":"kr",
-   "serverhost":"165.22.255.179",
-   "sshport":"550",
-   "username":"fuckyousniffer",
-   "password":"fuckyousniffer"
+   "serverhost":"158.247.238.220",
+   "sshport":"1194",
+   "username":"bestvpnssh.com-tartay2",
+   "password":"123456"
 },
 {
-"name":" Myanmar",
-   "flag":"mm",
-   "serverhost":"165.22.255.179",
-   "sshport":"550",
-   "username":"fuckyousniffer",
-   "password":"fuckyousniffer"
+"name":" Canada",
+   "flag":"ca",
+   "serverhost":"147.182.158.192",
+   "sshport":"1194",
+   "username":"bestvpnssh.com-tartay4",
+   "password":"123456"
 },
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"139.59.245.69",
-   "sshport":"550",
-   "username":"fuckyousniffer",
-   "password":"fuckyousniffer"
+   "serverhost":"158.247.238.220",
+   "sshport":"1194",
+   "username":"bestvpnssh.com-tartay1",
+   "password":"123456"
 },
 {
    "name":"United States",
    "flag":"us",
-   "serverhost":"139.59.245.69",
-   "sshport":"550",
-   "username":"fuckyousniffer",
-   "password":"fuckyousniffer"
+   "serverhost":"167.172.142.237",
+   "sshport":"1194",
+   "username":"bestvpnssh.com-tartay3",
+   "password":"123456"
 },
 {
    "name":" Japan",
    "flag":"jp",
-   "serverhost":"165.22.255.179",
-   "sshport":"550",
-   "username":"fuckyousniffer",
-   "password":"fuckyousniffer"
+   "serverhost":"108.160.136.82",
+   "sshport":"1194",
+   "username":"bestvpnssh.com-tartay",
+   "password":"123456"
 },
 {
-   "name":" Malay....",
-   "flag":"my",
-   "serverhost":"165.22.255.179",
+   "name":" Austrila....",
+   "flag":"au",
+   "serverhost":"139.180.160.233",
    "sshport":"550",
-   "username":"fuckyousniffer",
-   "password":"fuckyousniffer"
+   "username":"bestvpnssh.com-tartay5",
+   "password":"123456"
 },
 {
    "name":" H K ",
