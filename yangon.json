@@ -12,9 +12,9 @@
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"147.182.158.192",
-   "sshport":"1194",
-   "username":"bestvpnssh.com-tartay4",
+   "serverhost":"ca01.sshocean.net",
+   "sshport":"22",
+   "username":"sshocean-tartay",
    "password":"123456"
 },
 {
