@@ -1,5 +1,5 @@
 {
-"version":"3.0.2",
+"version":"3.0.3",
 "knserver":[
    {
 "name":" Korea",
@@ -20,9 +20,9 @@
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"158.247.238.220",
+   "serverhost":"sggs5.hostip.co",
    "sshport":"1194",
-   "username":"bestvpnssh.com-tartay1",
+   "username":"fastssh.com-tartay1",
    "password":"123456"
 },
 {
