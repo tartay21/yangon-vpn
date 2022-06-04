@@ -1,5 +1,5 @@
 {
-"version":"3.0.1",
+"version":"3.0.2",
 "knserver":[
    {
 "name":" Korea",
@@ -52,7 +52,7 @@
 {
    "name":" France ",
    "flag":"fr",
-   "serverhost":"139.59.245.69",
+   "serverhost":"95.179.223.60",
    "sshport":"1194",
    "username":"bestvpnssh.com-tartay6",
    "password":"123456"
