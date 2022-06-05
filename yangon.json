@@ -1,61 +1,61 @@
 {
-"version":"3.0.4",
+"version":"3.0.5",
 "knserver":[
    {
 "name":" Korea",
    "flag":"kr",
-   "serverhost":"158.247.238.220",
-   "sshport":"1194",
-   "username":"bestvpnssh.com-tartay2",
-   "password":"123456"
+   "serverhost":"95.215.108.66",
+   "sshport":"22",
+   "username":"cyberssh.com",
+   "password":"cyberssh.com"
 },
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"ca01.sshocean.net",
+   "serverhost":"95.215.108.66",
    "sshport":"22",
-   "username":"sshocean-tartay",
-   "password":"123456"
+   "username":"cyberssh.com",
+   "password":"cyberssh.com"
 },
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"139.99.89.25",
+   "serverhost":"95.215.108.66",
    "sshport":"22",
-   "username":"masterssh-tartay1",
-   "password":"123456"
+   "username":"cyberssh.com",
+   "password":"cyberssh.com"
 },
 {
    "name":"United States",
    "flag":"us",
-   "serverhost":"165.227.91.65",
-   "sshport":"1194",
-   "username":"masterssh.com-tartay7",
-   "password":"123456"
+   "serverhost":"95.215.108.66",
+   "sshport":"22",
+   "username":"cyberssh.com",
+   "password":cyberssh.com"
 },
 {
    "name":" Japan",
    "flag":"jp",
-   "serverhost":"108.160.136.82",
-   "sshport":"1194",
-   "username":"bestvpnssh.com-tartay",
-   "password":"123456"
+   "serverhost":"95.215.108.66",
+   "sshport":"22",
+   "username":"cyberssh.com",
+   "password":"cyberssh.com"
 },
 {
    "name":" Austrila....",
    "flag":"au",
-   "serverhost":"139.180.160.233",
-   "sshport":"1194",
-   "username":"bestvpnssh.com-tartay5",
-   "password":"123456"
+   "serverhost":"95.215.108.66",
+   "sshport":"22",
+   "username":"cyberssh.com",
+   "password":"cyberssh.com"
 },
 {
    "name":" France ",
    "flag":"fr",
-   "serverhost":"95.179.223.60",
-   "sshport":"1194",
-   "username":"bestvpnssh.com-tartay6",
-   "password":"123456"
+   "serverhost":"95.215.108.66",
+   "sshport":"22",
+   "username":"cyberssh.com",
+   "password":"cyberssh.com"
 }
 ]
 }
