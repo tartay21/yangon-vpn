@@ -1,61 +1,61 @@
 {
-"version":"3.0.6",
+"version":"3.0.9",
 "knserver":[
    {
-"name":" Korea",
-   "flag":"kr",
-   "serverhost":"95.215.108.66",
+"name":" United Kindom",
+   "flag":"uk",
+   "serverhost":"uk1.ssh30.hostname.cc",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"akunssh-tartay",
+   "password":"123456"
 },
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"95.215.108.66",
+   "serverhost":"ca-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"sshmax-tartay1",
+   "password":"123456"
 },
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"95.215.108.66",
+   "serverhost":"139.99.90.36",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"openvpn-ssh.com-tartay",
+   "password":"123456"
 },
 {
-   "name":"United States",
-   "flag":"us",
-   "serverhost":"95.215.108.66",
+   "name":"Germany",
+   "flag":"de",
+   "serverhost":"de-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"sshmax-okokok",
+   "password":"123456"
 },
 {
-   "name":" Japan",
-   "flag":"jp",
-   "serverhost":"95.215.108.66",
+   "name":" Poland",
+   "flag":"pl",
+   "serverhost":"pl-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"sshmax-tartay4",
+   "password":"123456"
 },
 {
    "name":" Austrila....",
    "flag":"au",
-   "serverhost":"95.215.108.66",
+   "serverhost":"au-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"sshmax-tartay",
+   "password":"123456"
 },
 {
    "name":" France ",
    "flag":"fr",
-   "serverhost":"95.215.108.66",
+   "serverhost":"fr-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"cyberssh.com",
-   "password":"cyberssh.com"
+   "username":"sshmax-tartay3",
+   "password":"123456"
 }
 ]
 }
