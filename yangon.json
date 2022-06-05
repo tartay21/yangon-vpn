@@ -1,5 +1,5 @@
 {
-"version":"3.0.3",
+"version":"3.0.4",
 "knserver":[
    {
 "name":" Korea",
@@ -20,17 +20,17 @@
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"51.79.254.77",
-   "sshport":"443",
-   "username":"tartay",
+   "serverhost":"139.99.89.25",
+   "sshport":"22",
+   "username":"masterssh-tartay1",
    "password":"123456"
 },
 {
    "name":"United States",
    "flag":"us",
-   "serverhost":"167.172.142.237",
+   "serverhost":"165.227.91.65",
    "sshport":"1194",
-   "username":"bestvpnssh.com-tartay3",
+   "username":"masterssh.com-tartay7",
    "password":"123456"
 },
 {
