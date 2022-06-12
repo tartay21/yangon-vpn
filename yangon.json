@@ -60,9 +60,9 @@
 {
    "name":" Hong Kong ",
    "flag":"hk",
-   "serverhost":"hk7-1.sshstores.net",
-   "sshport":"22",
-   "username":"omg",
+   "serverhost":"hk1.sshws.me",
+   "sshport":"80",
+   "username":"sshocean-omg1",
    "password":"123456"
 }
 ]
