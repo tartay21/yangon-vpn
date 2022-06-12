@@ -1,5 +1,5 @@
 {
-"version":"3.1.5",
+"version":"3.1.6",
 "knserver":[
    {
 "name":" United Kindom",
@@ -60,9 +60,9 @@
 {
    "name":" Hong Kong ",
    "flag":"hk",
-   "serverhost":"hk1.sshws.me",
-   "sshport":"2082",
-   "username":"sshocean-omg1",
+   "serverhost":"194.29.187.247",
+   "sshport":"22",
+   "username":"starssh.com-tartay00",
    "password":"123456"
 }
 ]
