@@ -61,7 +61,7 @@
    "name":" Hong Kong ",
    "flag":"hk",
    "serverhost":"hk7-1.sshstores.net",
-   "sshport":"997",
+   "sshport":"22",
    "username":"omg",
    "password":"123456"
 }
