@@ -1,5 +1,5 @@
 {
-"version":"3.1.0",
+"version":"3.1.1",
 "knserver":[
    {
 "name":" United Kindom",
@@ -55,6 +55,14 @@
    "serverhost":"fr-ssh.sshmax.xyz",
    "sshport":"22",
    "username":"sshmax-tartay3",
+   "password":"123456"
+},
+{
+   "name":" Hong Kong ",
+   "flag":"hk",
+   "serverhost":"hk7-1.sshstores.net",
+   "sshport":"443",
+   "username":"omg",
    "password":"123456"
 }
 ]
