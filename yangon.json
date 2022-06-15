@@ -1,5 +1,5 @@
 {
-"version":"3.1.8",
+"version":"3.1.9",
 "knserver":[
    {
 "name":" United Kindom",
@@ -63,6 +63,14 @@
    "serverhost":"us5.hideserver.xyz",
    "sshport":"22",
    "username":"hidessh-tartay",
+   "password":"123456"
+},
+{
+"name":" Mexico",
+   "flag":"mx",
+   "serverhost":"216.238.76.157",
+   "sshport":"22",
+   "username":"bestvpnssh-tartay",
    "password":"123456"
 
 }
