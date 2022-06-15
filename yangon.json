@@ -1,5 +1,5 @@
 {
-"version":"3.1.7",
+"version":"3.1.8",
 "knserver":[
    {
 "name":" United Kindom",
@@ -58,12 +58,13 @@
    "password":"123456"
 },
 {
-   "name":" Hong Kong ",
-   "flag":"hk",
-   "serverhost":"194.29.187.247",
+   "name":" United States ",
+   "flag":"us",
+   "serverhost":"us5.hideserver.xyz",
    "sshport":"22",
-   "username":"starssh.com-tartay00",
+   "username":"hidessh-tartay",
    "password":"123456"
+
 }
 ]
 }
