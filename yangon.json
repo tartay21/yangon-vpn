@@ -1,12 +1,12 @@
 {
-"version":"3.1.6",
+"version":"3.1.7",
 "knserver":[
    {
 "name":" United Kindom",
    "flag":"uk",
-   "serverhost":"uk1.ssh30.hostname.cc",
+   "serverhost":"uk-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"akunssh-tartay",
+   "username":"sshmax-tartay",
    "password":"123456"
 },
 {
@@ -30,7 +30,7 @@
    "flag":"de",
    "serverhost":"de-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"sshmax-okokok",
+   "username":"sshmax-tartay",
    "password":"123456"
 },
 {
@@ -54,7 +54,7 @@
    "flag":"fr",
    "serverhost":"fr-ssh.sshmax.xyz",
    "sshport":"22",
-   "username":"sshmax-tartay3",
+   "username":"sshmax-tartay",
    "password":"123456"
 },
 {
