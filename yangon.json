@@ -1,5 +1,5 @@
 {
-"version":"3.2.1",
+"version":"3.2.2",
 "knserver":[
    {
 "name":" United Kindom",
@@ -12,10 +12,10 @@
 {
    "name":" Singapore GCP",
    "flag":"sg",
-   "serverhost":"34.142.252.5",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"comedian",
-   "password":"comedian"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
 "name":" Canada",
@@ -36,10 +36,10 @@
 {
    "name":" Indonesia GCP",
    "flag":"indo",
-   "serverhost":"34.101.165.201",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"comedian",
-   "password":"comedian"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
 "name":" Canada",
@@ -52,10 +52,10 @@
 {
    "name":"United States GCP",
    "flag":"us",
-   "serverhost":"35.223.255.69",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"comedian",
-   "password":"comedian"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":"Germany",
