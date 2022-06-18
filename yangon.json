@@ -10,6 +10,14 @@
    "password":"123456"
 },
 {
+   "name":" Singapore GCP",
+   "flag":"sg",
+   "serverhost":"34.142.252.5",
+   "sshport":"22",
+   "username":"comedian",
+   "password":"comedian"
+},
+{
 "name":" Canada",
    "flag":"ca",
    "serverhost":"ca-ssh.sshmax.xyz",
