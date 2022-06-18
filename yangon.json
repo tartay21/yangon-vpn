@@ -34,6 +34,30 @@
    "password":"123456"
 },
 {
+   "name":" Indonesia GCP",
+   "flag":"indo",
+   "serverhost":"34.101.165.201",
+   "sshport":"22",
+   "username":"comedian",
+   "password":"comedian"
+},
+{
+"name":" Canada",
+   "flag":"ca",
+   "serverhost":"ca-ssh.sshmax.xyz",
+   "sshport":"22",
+   "username":"sshmax-tartay1",
+   "password":"123456"
+},
+{
+   "name":"United States GCP",
+   "flag":"us",
+   "serverhost":"35.223.255.69",
+   "sshport":"22",
+   "username":"comedian",
+   "password":"comedian"
+},
+{
    "name":"Germany",
    "flag":"de",
    "serverhost":"de-ssh.sshmax.xyz",
