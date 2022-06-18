@@ -1,13 +1,13 @@
 {
-"version":"3.2.2",
+"version":"3.2.3",
 "knserver":[
    {
 "name":" United Kindom",
    "flag":"uk",
-   "serverhost":"uk-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" Singapore GCP",
@@ -20,18 +20,18 @@
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"ca-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay1",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"139.99.90.36",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"openvpn-ssh.com-tartay",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" Indonesia GCP",
@@ -44,10 +44,10 @@
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"ca-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay1",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":"United States GCP",
@@ -60,50 +60,50 @@
 {
    "name":"Germany",
    "flag":"de",
-   "serverhost":"de-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" Poland",
    "flag":"pl",
-   "serverhost":"pl-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay4",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" Austrila....",
    "flag":"au",
-   "serverhost":"au-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" France ",
    "flag":"fr",
-   "serverhost":"fr-ssh.sshmax.xyz",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"sshmax-tartay",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 },
 {
    "name":" United States ",
    "flag":"us",
-   "serverhost":"147.182.242.170",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"bestvpnssh-tartay1",
-   "password":"123456"
+   "username":tartay",
+   "password":"tartay"
 },
 {
 "name":" Mexico",
    "flag":"mx",
-   "serverhost":"216.238.76.157",
+   "serverhost":"34.142.133.146",
    "sshport":"22",
-   "username":"bestvpnssh-tartay",
-   "password":"123456"
+   "username":"tartay",
+   "password":"tartay"
 
 }
 ]
