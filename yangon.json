@@ -1,5 +1,5 @@
 {
-"version":"3.2.3",
+"version":"3.2.4",
 "knserver":[
    {
 "name":" United Kindom",
@@ -59,7 +59,7 @@
 },
 {
    "name":"Germany",
-   "flag":"de",
+   "flag":"deu",
    "serverhost":"34.142.133.146",
    "sshport":"22",
    "username":"tartay",
@@ -67,7 +67,7 @@
 },
 {
    "name":" Poland",
-   "flag":"pl",
+   "flag":"pol",
    "serverhost":"34.142.133.146",
    "sshport":"22",
    "username":"tartay",
@@ -83,7 +83,7 @@
 },
 {
    "name":" France ",
-   "flag":"fr",
+   "flag":"fra",
    "serverhost":"34.142.133.146",
    "sshport":"22",
    "username":"tartay",
@@ -99,7 +99,7 @@
 },
 {
 "name":" Mexico",
-   "flag":"mx",
+   "flag":"mex",
    "serverhost":"34.142.133.146",
    "sshport":"22",
    "username":"tartay",
