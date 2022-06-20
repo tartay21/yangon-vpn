@@ -1,5 +1,5 @@
 {
-"version":"3.3.3",
+"version":"3.3.4",
 "knserver":[
    {
 "name":" United Kindom GCP",
@@ -18,7 +18,7 @@
    "password":"tartay1"
 },
 {
-"name":" Canada GCP ",
+"name":" Canada GCP",
    "flag":"ca",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -26,7 +26,7 @@
    "password":"tartay1"
 },
 {
-   "name":" Singapore GCP ",
+   "name":" Singapore GCP",
    "flag":"sg",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -34,7 +34,7 @@
    "password":"tartay1"
 },
 {
-   "name":" Indonesia GCP ",
+   "name":" Indonesia GCP",
    "flag":"indo",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -42,7 +42,7 @@
    "password":"tartay1"
 },
 {
-"name":" Canada GCP ",
+"name":" Canada GCP",
    "flag":"ca",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -50,7 +50,7 @@
    "password":"tartay1"
 },
 {
-   "name":"United States GCP ",
+   "name":"United States GCP",
    "flag":"us",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -58,7 +58,7 @@
    "password":"tartay1"
 },
 {
-   "name":"Germany GCP ",
+   "name":"Germany GCP",
    "flag":"deu",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -66,7 +66,7 @@
    "password":"tartay1"
 },
 {
-   "name":" Poland GCP ",
+   "name":" Poland GCP",
    "flag":"pol",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -74,7 +74,7 @@
    "password":"tartay1"
 },
 {
-   "name":" Austrila GCP ",
+   "name":" Austrila GCP",
    "flag":"au",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -82,7 +82,7 @@
    "password":"tartay1"
 },
 {
-   "name":" France GCP ",
+   "name":" France GCP",
    "flag":"fra",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -90,7 +90,7 @@
    "password":"tartay1"
 },
 {
-   "name":" United States GCP ",
+   "name":" United States GCP",
    "flag":"us",
    "serverhost":"34.124.176.134",
    "sshport":"22",
@@ -98,7 +98,7 @@
    "password":"tartay1"
 },
 {
-"name":" Mexico GCP ",
+"name":" Mexico GCP",
    "flag":"mex",
    "serverhost":"34.124.176.134",
    "sshport":"22",
