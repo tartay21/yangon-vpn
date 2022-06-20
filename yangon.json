@@ -1,109 +1,109 @@
 {
-"version":"3.3.0",
+"version":"3.3.2",
 "knserver":[
    {
 "name":" United Kindom",
    "flag":"uk",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" Singapore GCP",
    "flag":"sg",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" Singapore",
    "flag":"sg",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" Indonesia GCP",
    "flag":"indo",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":"United States GCP",
    "flag":"us",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":"Germany",
    "flag":"deu",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" Poland",
    "flag":"pol",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" Austrila....",
    "flag":"au",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" France ",
    "flag":"fra",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
    "name":" United States ",
    "flag":"us",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 },
 {
 "name":" Mexico",
    "flag":"mex",
-   "serverhost":"34.126.122.83",
+   "serverhost":"34.124.176.134",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"tartay1",
+   "password":"tartay1"
 
 }
 ]
