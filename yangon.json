@@ -1,10 +1,10 @@
 {
-"version":"3.3.7",
+"version":"3.3.8",
 "knserver":[
    {
 "name":" United Kindom GCP",
    "flag":"uk",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -12,7 +12,7 @@
 {
    "name":" Singapore GCP",
    "flag":"sg",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -20,7 +20,7 @@
 {
 "name":" Canada GCP",
    "flag":"ca",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -28,7 +28,7 @@
 {
    "name":" Singapore GCP",
    "flag":"sg",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -36,7 +36,7 @@
 {
    "name":" Indonesia GCP",
    "flag":"indo",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -44,7 +44,7 @@
 {
 "name":" Canada GCP",
    "flag":"ca",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -52,7 +52,7 @@
 {
    "name":"United States GCP",
    "flag":"us",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -60,7 +60,7 @@
 {
    "name":"Germany GCP",
    "flag":"deu",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -68,7 +68,7 @@
 {
    "name":" Poland GCP",
    "flag":"pol",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -76,7 +76,7 @@
 {
    "name":" Austrila GCP",
    "flag":"au",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -84,7 +84,7 @@
 {
    "name":" France GCP",
    "flag":"fra",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -92,7 +92,7 @@
 {
    "name":" United States GCP",
    "flag":"us",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
@@ -100,7 +100,7 @@
 {
 "name":" Mexico GCP",
    "flag":"mex",
-   "serverhost":"35.187.236.166",
+   "serverhost":"34.142.173.18",
    "sshport":"22",
    "username":"tartay1",
    "password":"tartay1"
