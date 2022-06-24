@@ -1,5 +1,5 @@
 {
-"version":"3.5.0",
+"version":"3.5.1",
 "knserver":[
    {
 "name":" United Kindom GCP",
@@ -34,8 +34,8 @@
    "password":"tartay"
 },
 {
-   "name":" Thai GCP",
-   "flag":"th",
+   "name":" Korea GCP",
+   "flag":"kr",
    "serverhost":"34.142.141.82",
    "sshport":"22",
    "username":"tartay",
@@ -74,8 +74,8 @@
    "password":"123456"
 },
 {
-   "name":" Thai ",
-   "flag":"th",
+   "name":" Korea ",
+   "flag":"kr",
    "serverhost":"178.128.212.53",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
