@@ -1,5 +1,5 @@
 {
-"version":"3.6.8",
+"version":"3.6.9",
 "knserver":[
    {
 "name":" United Kindom GCP",
@@ -10,12 +10,12 @@
    "password":"tartay"
 },
 {
-   "name":" Singapore GCP",
-   "flag":"sg",
-   "serverhost":"34.124.176.229",
+   "name":" United Kindom",
+   "flag":"uk",
+   "serverhost":"178.128.212.53",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
 "name":" Canada GCP",
@@ -26,6 +26,62 @@
    "password":"tartay"
 },
 {
+"name":" Canada",
+   "flag":"ca",
+   "serverhost":"178.128.212.53",
+   "sshport":"22",
+   "username":"cyberssh.com-tartay",
+   "password":"tartay"
+},
+{
+   "name":" Japan GCP",
+   "flag":"jp",
+   "serverhost":"34.124.176.229",
+   "sshport":"22",
+   "username":"tartay",
+   "password":"tartay"
+},
+{
+"name":" Japan",
+   "flag":"jp",
+   "serverhost":"178.128.212.53",
+   "sshport":"22",
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
+},
+{
+   "name":" Singapore GCP ",
+   "flag":"sg",
+   "serverhost":"34.124.176.229",
+   "sshport":"22",
+   "username":"tartay",
+   "password":"tartay"
+},
+{
+"name":" Singapore",
+   "flag":"sg",
+   "serverhost":"178.128.212.53",
+   "sshport":"22",
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
+},
+{
+"name":" Korea GCP",
+   "flag":"kr",
+   "serverhost":"34.124.176.229",
+   "sshport":"22",
+   "username":"tartay",
+   "password":"tartay"
+},
+{
+   "name":" Korea ",
+   "flag":"th",
+   "serverhost":"178.128.212.53",
+   "sshport":"22",
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
+},
+{
 "name":" United States GCP",
    "flag":"us",
    "serverhost":"34.124.176.229",
@@ -34,60 +90,13 @@
    "password":"tartay"
 },
 {
-   "name":" Korea GCP",
-   "flag":"kr",
-   "serverhost":"34.124.176.229",
-   "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
-},
-{
-"name":" Japan GCP",
-   "flag":"jp",
-   "serverhost":"34.124.176.229",
-   "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
-},
-{
-   "name":" Singapore ",
-   "flag":"sg",
+   "name":" United States ",
+   "flag":"th",
    "serverhost":"178.128.212.53",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
 },
-{
-"name":" Canada",
-   "flag":"ca",
-   "serverhost":"178.128.212.53",
-   "sshport":"22",
-   "username":"cyberssh.com-tartay",
-   "password":"123456"
-},
-{
-"name":" United States ",
-   "flag":"us",
-   "serverhost":"178.128.212.53",
-   "sshport":"22",
-   "username":"cyberssh.com-tartay",
-   "password":"123456"
-},
-{
-   "name":" Korea ",
-   "flag":"kr",
-   "serverhost":"178.128.212.53",
-   "sshport":"22",
-   "username":"cyberssh.com-tartay",
-   "password":"123456"
-},
-{
-"name":" Japan ",
-   "flag":"jp",
-   "serverhost":"178.128.212.53",
-   "sshport":"22",
-   "username":"cyberssh.com-tartay",
-   "password":"123456"
 
 }
 ]
