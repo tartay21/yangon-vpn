@@ -75,7 +75,7 @@
 },
 {
    "name":" Korea ",
-   "flag":"th",
+   "flag":"kr",
    "serverhost":"178.128.212.53",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
@@ -91,7 +91,7 @@
 },
 {
    "name":" United States ",
-   "flag":"th",
+   "flag":"us",
    "serverhost":"178.128.212.53",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
