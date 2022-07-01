@@ -1,18 +1,18 @@
 {
-"version":"3.7.4",
+"version":"3.7.5",
 "knserver":[
    {
 "name":" United Kindom GCP",
    "flag":"uk",
-   "serverhost":"35.240.235.31",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
    "name":" United Kindom",
    "flag":"uk",
-   "serverhost":"178.128.212.53",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
@@ -20,15 +20,15 @@
 {
 "name":" Canada GCP",
    "flag":"ca",
-   "serverhost":"35.240.235.31",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
 "name":" Canada",
    "flag":"ca",
-   "serverhost":"178.128.212.53",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
@@ -36,15 +36,15 @@
 {
    "name":" Japan GCP",
    "flag":"jp",
-   "serverhost":"35.240.235.31",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
 "name":" Japan",
    "flag":"jp",
-   "serverhost":"178.128.212.53",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
@@ -52,15 +52,15 @@
 {
    "name":" Singapore GCP ",
    "flag":"sg",
-   "serverhost":"35.240.235.31",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
 "name":" Singapore",
    "flag":"sg",
-   "serverhost":"178.128.212.53",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
@@ -68,15 +68,15 @@
 {
 "name":" Korea GCP",
    "flag":"kr",
-   "serverhost":"35.240.235.31",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
    "name":" Korea ",
    "flag":"kr",
-   "serverhost":"178.128.212.53",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
@@ -84,15 +84,15 @@
 {
 "name":" United States GCP",
    "flag":"us",
-   "serverhost":"35.240.235.31",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
-   "username":"tartay",
-   "password":"tartay"
+   "username":"cyberssh.com-tartay",
+   "password":"123456"
 },
 {
    "name":" United States ",
    "flag":"us",
-   "serverhost":"178.128.212.53",
+   "serverhost":"31.192.234.242",
    "sshport":"22",
    "username":"cyberssh.com-tartay",
    "password":"123456"
